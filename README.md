@@ -2,3 +2,9 @@
 
 # Image-Colorization
 #### This is a simple implementation of Colorization using pix-2-pix method following is the results of the colorization. Basically pretrained resnet-18 models were used for generator step. And cocolab 20000 datasets were used for finetuing the generator network. The following is an example of the outputs
+
+
+<img src = "https://github.com/Orlento02/Image-Colorization/assets/113955179/efea18ce-aee1-4684-ac8f-4ab4b4191f92" width="50%" height="30%">
+
+
+<img src =  width="80%" height="60%">
