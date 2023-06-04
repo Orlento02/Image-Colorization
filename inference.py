@@ -46,7 +46,7 @@ def lab_to_rgb(L, ab):
 def save(img):
     net_G = build_res_unet(n_input=1, n_output=2, size=256)
     model = MainModel(net_G=net_G)
-    model.load_state_dict(torch.load("final_model_weights.pt", map_location=device))
+    model.load_state_dict(torch.load("pix2pix_weights.pt", map_location=device))
     model.net_G.eval()
     
     try :
