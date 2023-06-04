@@ -7,4 +7,4 @@
 <img src = "https://github.com/Orlento02/Image-Colorization/assets/113955179/efea18ce-aee1-4684-ac8f-4ab4b4191f92" width="50%" height="30%">
 
 
-<img src =  width="80%" height="60%">
+<img src = https://user-images.githubusercontent.com/113955179/243161716-a2a57bf0-96bf-419a-be09-fec763ba8f58.png width="80%" height="60%">
