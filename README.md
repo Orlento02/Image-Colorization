@@ -1,3 +1,3 @@
 # Image-Colorization
 ## This is a simple implementation of Colorization using pix-2-pix method
-![Colorization](https://github.com/Orlento02/Image-Colorization/assets/113955179/15a216da-4ca3-42d7-b754-d01527ce9499)
+<img src = "https://github.com/Orlento02/Image-Colorization/assets/113955179/04bdce57-798f-4a7f-9d85-3cee0ba78d25">
